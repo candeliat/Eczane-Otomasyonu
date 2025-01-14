@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eczane_otomasyonu", "Eczane_otomasyonu\Eczane_otomasyonu.csproj", "{AD9680DC-D2B6-45E9-AC8A-9CA41E3CC895}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Eczane Otomasyonu Setup", "Eczane Otomasyonu Setup\Eczane Otomasyonu Setup.vdproj", "{784F39EC-7930-4E4E-9E67-86BDC3411AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9680DC-D2B6-45E9-AC8A-9CA41E3CC895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9680DC-D2B6-45E9-AC8A-9CA41E3CC895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9680DC-D2B6-45E9-AC8A-9CA41E3CC895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9680DC-D2B6-45E9-AC8A-9CA41E3CC895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784F39EC-7930-4E4E-9E67-86BDC3411AA2}.Debug|Any CPU.ActiveCfg = Debug
+		{784F39EC-7930-4E4E-9E67-86BDC3411AA2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E598B986-D878-4398-8F7B-F8AB622D6573}
+	EndGlobalSection
+EndGlobal
